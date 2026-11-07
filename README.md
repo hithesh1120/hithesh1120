@@ -31,7 +31,7 @@ My strongest development focus is **Python, FastAPI, React, and PostgreSQL**. I 
 |---|---|
 | Education | B.Tech, Computer Science and Engineering — VIT-AP University |
 | Graduation | 2026 |
-| CGPA | 8.03 / 10 |
+| CGPA | 8.18 / 10 |
 | Location | Andhra Pradesh, India |
 | Current work | Freelance Software Engineer — Scaler.ai |
 | Focus | Full-stack development, backend APIs, AI output evaluation |
