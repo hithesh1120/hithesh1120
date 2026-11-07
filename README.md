@@ -1,206 +1,170 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=HITHESH%20PREM&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=SOFTWARE%20%2F%20SYSTEMS%20%2F%20IDEAS&descSize=16&descAlignY=62" width="100%" alt="Hithesh Prem — Engineering Workbench"/>
-
-### Software Developer · Backend-minded · Full-stack Builder
-
-**I build the connective tissue of software.**
-
-The APIs behind interfaces. The data behind workflows. The logic that makes applications work.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/arava-hithesh-prem-08648b327/">
-  <img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:hitheshprem1120a@gmail.com">
-  <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://portfolio2124.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.credly.com/users/arava-hithesh-prem">
-  <img src="https://img.shields.io/badge/Credentials-203A43?style=for-the-badge&logo=credly&logoColor=white" alt="Credentials"/>
-</a>
-
+<div align="center">
+  <h1>ARAVA HITHESH PREM</h1>
+  <p><strong>THE ENGINEERING WORKBENCH</strong></p>
+  <p>Full-stack development · Backend engineering · AI output evaluation</p>
+  <p><em>Build the flow. Connect the layers. Ship useful software.</em></p>
+  <p>
+    <a href="https://www.linkedin.com/in/arava-hithesh-prem-08648b327/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hitheshprem1120a@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://portfolio2124.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.credly.com/users/arava-hithesh-prem">
+      <img src="https://img.shields.io/badge/Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credentials" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## `01` — The person behind the commits
+## 01 / About
 
-I'm **Arava Hithesh Prem**, a Computer Science graduate from **VIT-AP University (2022–2026)**.
+I'm **Arava Hithesh Prem**, a Computer Science graduate from **VIT-AP University**. I work across the layers of an application: shaping the data flow, building APIs, connecting interfaces, and making the complete workflow reliable.
 
-I enjoy working across the layers of an application: understanding a problem, designing the data flow, building APIs, connecting interfaces, and making sure the pieces work together.
+My strongest development focus is **Python, FastAPI, React, and PostgreSQL**. I also have hands-on experience with Flutter and Firebase, along with Docker-based development workflows. Alongside software development, I work on **AI output evaluation**, checking generated responses against task requirements and quality criteria.
 
-My strongest development focus is **Python, FastAPI, React, and PostgreSQL**. I've also built mobile applications with Flutter and Firebase.
+| Profile | Details |
+|---|---|
+| Education | B.Tech, Computer Science and Engineering — VIT-AP University |
+| Graduation | 2026 |
+| CGPA | 8.03 / 10 |
+| Location | Andhra Pradesh, India |
+| Current work | Freelance Software Engineer — Scaler.ai |
+| Focus | Full-stack development, backend APIs, AI output evaluation |
 
-Outside traditional development, I work on **AI output evaluation and prompt-focused tasks**, reviewing whether generated responses actually satisfy their requirements.
-
-```text
-┌─────────────────────────────────────────────────────┐
-│  DEVELOPER PROFILE                                  │
-├─────────────────────────────────────────────────────┤
-│  Name       : Arava Hithesh Prem                    │
-│  Education  : B.Tech — Computer Science             │
-│  University : VIT-AP                                │
-│  Focus      : Full-stack / Backend / AI Evaluation  │
-│  Languages  : Python / Java / JavaScript / SQL      │
-│  Location   : Andhra Pradesh, India                 │
-│  Status     : Open to software development roles    │
-└─────────────────────────────────────────────────────┘
-```
-
-## `02` — What I work with
+## 02 / Engineering toolkit
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, Java, JavaScript, SQL |
+| Programming | Python, Java, JavaScript, SQL |
 | Frontend | React, HTML5, CSS3 |
 | Backend | FastAPI, REST APIs, SQLAlchemy |
-| Databases | PostgreSQL, MongoDB, SQLite, Firebase |
+| Databases | PostgreSQL, MongoDB, SQLite, Firebase / Cloud Firestore |
 | Mobile | Flutter, Dart |
-| Cloud & DevOps | AWS, Google Cloud, Docker |
-| Developer Tools | Git, GitHub, VS Code |
-| AI | Prompt Engineering, AI Output Evaluation, Generative AI |
+| Cloud & DevOps | Docker, AWS fundamentals, Google Cloud labs |
+| Tools | Git, GitHub, VS Code |
+| Additional project technology | Three.js |
+| AI workflows | Prompt engineering, AI output evaluation, generative AI exploration |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,flutter,dart,postgres,mongodb,firebase,docker,aws,gcp,git,github,vscode&perline=9" alt="Technologies and tools"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,react,html,css,fastapi,flutter,dart,postgres,mongodb,sqlite,firebase,docker,aws,gcp,git,github,vscode,threejs&perline=10&theme=dark" alt="Python, Java, JavaScript, React, HTML, CSS, FastAPI, Flutter, Dart, PostgreSQL, MongoDB, SQLite, Firebase, Docker, AWS, Google Cloud, Git, GitHub, VS Code, Three.js" />
+  </a>
 </p>
 
-## `03` — Selected builds
+## 03 / Selected builds
 
-*Projects that represent the kind of problems I enjoy solving.*
+### Inbound Logistics Management System (ILS)
 
-### 🚚 Inbound Logistics Management System
+[Source repository](https://github.com/hithesh1120/traveling)
 
-[Repository →](https://github.com/hithesh1120/traveling)
+Contributed to a full-stack logistics platform developed during my internship at LST RGInnotech. It brings MSME vendors, administrators, and drivers into a shared shipment workflow.
 
-A logistics platform designed to bring MSME vendors, administrators, and drivers into one workflow.
-
-- Shipment booking and cargo details.
+- Shipment booking, cargo details, and role-based workflows.
 - Vehicle management and driver assignment.
-- Cargo dimensions and available vehicle-space handling.
-- 3D cargo visualization.
+- Cargo dimensions and vehicle-space handling.
+- 3D cargo visualization with Three.js.
+- Supporting FastAPI service for 3D-to-2D CAD conversion.
 
-`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Three.js`
+`React` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Three.js`
 
-### 💬 V-Comm — Faculty Communication
+### V-Comm — Faculty Communication App
 
-[Repository →](https://github.com/hithesh1120/v_comm)
+[Source repository](https://github.com/hithesh1120/v_comm)
 
-A mobile application built exclusively for college faculty members to communicate and coordinate academic activities.
+A three-person academic team project at VIT-AP (2024), built exclusively for college faculty members to communicate and coordinate academic work.
 
 - Faculty directory and colleague discovery.
-- Real-time messaging.
-- Work scheduling and attendance management.
-- Academic calendar.
+- Real-time messaging with Cloud Firestore.
+- Work scheduling, attendance management, and academic calendar.
 
 `Flutter` `Dart` `Firebase Authentication` `Cloud Firestore`
 
-### 🧭 Path Learner — Career Exploration
+### Path Learner — Career Exploration
 
-[Live Demo →](https://hithesh1120.github.io/Path-learner/) · [Source Code →](https://github.com/hithesh1120/Path-learner)
+[Source repository](https://github.com/hithesh1120/Path-learner)
 
-A browser-based career exploration platform that helps learners discover career domains, specializations, skills, and useful learning resources.
+A browser-based career exploration platform that helps learners explore career domains, specializations, skills, and learning resources.
 
-- Interactive career recommendation quiz.
+- Interactive career quiz and preference-based recommendations.
 - Category-based career exploration.
-- Dynamic content and preference-based recommendations.
+- Dynamic content rendered with JavaScript.
 
-`HTML` `CSS` `JavaScript`
+`HTML5` `CSS3` `Vanilla JavaScript`
 
-### 🔐 Cybersecurity Lab
+### Cybersecurity Projects
 
-[Repository →](https://github.com/hithesh1120/Cybersecurity)
+[Source repository](https://github.com/hithesh1120/Cybersecurity)
 
-A collection of practical security experiments exploring encryption and network security.
+A collection of practical learning projects covering encryption concepts and network security.
 
 - Enigma machine simulation.
-- Network security utilities.
-- Port scanning and exposed-service identification.
+- Network security utilities and port scanning.
 
 `Python` `Networking` `Cryptography`
 
-### 🎨 Xeno — Product Dashboard Case Study
+### Smart Autobill — Billing Automation
 
-[Live Demo →](https://hithesh1120.github.io/Xeno/) · [Repository →](https://github.com/hithesh1120/Xeno)
+[Portfolio](https://portfolio2124.vercel.app/)
 
-An independent conceptual product-management and UX assignment exploring a dashboard for retail marketers.
+A Python-based automation project focused on invoice generation and reducing repetitive billing work. The public portfolio lists PDF generation and command-line/file-handling components; a public source repository is not currently linked.
 
-The focus is on campaign performance, customer engagement, useful metrics, and actionable insights.
+`Python` `Automation` `PDF Generation`
 
-*Conceptual case study — not an official Xeno product.*
+### Xeno — Product Dashboard Case Study
 
----
+[Source repository](https://github.com/hithesh1120/Xeno)
 
-## `04` — Where I've worked
+An independent conceptual Product Management and UX case study exploring a dashboard for retail marketers, with campaign performance, customer engagement, and actionable insights.
 
-**Freelance Software Engineer · Scaler.ai**
+*This is an independent conceptual assignment, not an official Xeno product or production implementation.*
 
+## 04 / Experience
+
+**Freelance Software Engineer — Scaler.ai**  
 `December 2025 – Present`
 
-Working on AI-related tasks, evaluating generated outputs against requirements, and contributing to prompt-focused workflows.
+AI output evaluation and prompt-focused workflows, reviewing generated responses against task requirements and quality expectations.
 
-**Web Developer Intern · LST RGInnotech Pvt. Ltd.**
-
+**Web Developer Intern — LST RGInnotech Pvt. Ltd.**  
 `December 2025 – April 2026`
 
-Worked on full-stack development involving React, FastAPI, PostgreSQL, REST APIs, Docker, and collaborative development workflows.
+Worked on full-stack application development involving React interfaces, FastAPI REST APIs, PostgreSQL, Docker, Git, workflow testing, and debugging.
 
-**Infosys Springboard · Internship 6.0**
+**Frontend Developer Intern — Infosys Springboard Internship 6.0**  
+`February 2026 – April 2026`
 
-`2026`
+Worked on frontend development as part of a collaborative virtual internship project.
 
-Frontend-focused virtual internship experience involving modern web technologies and collaborative project work.
+## 05 / Milestones
 
----
+- **TCS CodeVita Season 13:** Qualified for Round 2 (2025).
+- **AWS Certified Cloud Practitioner.**
+- **MongoDB Certified Associate.**
+- **Palo Alto Cybersecurity Foundation.**
+- **NPTEL:** Data Science for Engineers.
 
-## `05` — Milestones & credentials
+**Additional learning:** Google Cloud Gen AI Academy, Google Gemini AI Workshop, AWS Academy Cloud Architecting, and Deloitte Cybersecurity / Technology simulations.
 
-**Competitive achievement**
+[View my credentials on Credly](https://www.credly.com/users/arava-hithesh-prem)
 
-- 🏁 TCS CodeVita Season 13 — Qualified for Round 2 (2025).
+## 06 / Outside the terminal
 
-**Professional certifications**
-
-- ☁️ AWS Certified Cloud Practitioner.
-- 🍃 MongoDB Certified Associate.
-- 🛡️ Palo Alto Cybersecurity Foundation.
-- 📊 NPTEL — Data Science for Engineers.
-
-**Additional learning**
-
-Google Cloud Gen AI Academy · Google Gemini AI Workshop · AWS Cloud Architecting · Deloitte Cybersecurity & Technology simulations.
-
-[Explore my credentials on Credly →](https://www.credly.com/users/arava-hithesh-prem)
-
----
-
-## `06` — Outside the terminal
-
-When I'm not building something, I'm probably watching anime, playing games, or getting lost in a fictional world.
-
-- **Anime:** Bleach, Black Clover.
-- **Games:** Warframe, Wuthering Waves, Clash of Clans.
-- **Other interests:** Fantasy stories, technology experiments, and exploring new tools.
+Anime, strategy games, and fantasy worlds. Currently into **Bleach**, **Black Clover**, **Warframe**, **Wuthering Waves**, and **Clash of Clans**.
 
 ---
 
 <div align="center">
-
-### Have a problem worth building a solution for?
-
-I'm interested in software development opportunities, collaborative projects, and ideas that can be turned into useful products.
-
-<a href="mailto:hitheshprem1120a@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect"/>
-</a>
-
-<br/><br/>
-
-**Trace the problem. Understand the flow. Build the fix.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2C5364,50:203A43,100:0F2027" width="100%" alt="Footer"/>
-
+  <h3>Have an interesting problem to solve?</h3>
+  <p>I'm open to software development opportunities and collaborative projects.</p>
+  <p>
+    <a href="mailto:hitheshprem1120a@gmail.com">Email me</a> ·
+    <a href="https://www.linkedin.com/in/arava-hithesh-prem-08648b327/">Connect on LinkedIn</a> ·
+    <a href="https://portfolio2124.vercel.app/">View portfolio</a>
+  </p>
+  <p><strong>Understand the problem. Connect the pieces. Make it work.</strong></p>
 </div>
