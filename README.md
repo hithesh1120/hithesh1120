@@ -1,272 +1,60 @@
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   HITHESH@GITHUB:~$ whoami                                    ║
-║                                                              ║
-║   ARAVA HITHESH PREM                                          ║
-║   ────────────────────                                       ║
-║   Software Developer | Full-Stack | AI & Cloud Enthusiast    ║
-║                                                              ║
-║   "Building things, breaking things, learning how they work."║
-║                                                              ║
-║   STATUS   : OPEN TO OPPORTUNITIES                            ║
-║   LOCATION : INDIA                                            ║
-║   EDUCATION: B.Tech Computer Science – VIT-AP                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+\# Hey, I'm Hithesh 👋
 
-```python
-# ==========================================
-# SYSTEM PROFILE : ARAVA HITHESH PREM
-# ==========================================
+I'm a Computer Science graduate from VIT-AP University who enjoys building applications, solving problems, and exploring new technologies.
 
-class Developer:
+My experience spans full-stack development, backend engineering, Python automation, and AI output evaluation. I've worked with React, FastAPI, PostgreSQL, and Docker to build practical applications, and I've also explored mobile development, cloud computing, and generative AI.
 
-    def __init__(self):
-        self.name = "Arava Hithesh Prem"
-        self.education = "B.Tech - Computer Science, VIT-AP"
-        self.interests = [
-            "Full-Stack Development",
-            "Backend Engineering",
-            "Python Automation",
-            "Generative AI",
-            "Cloud Computing",
-            "Software Engineering"
-        ]
+\### 💻 What I'm Currently Working On
 
-        self.current_focus = [
-            "AI Output Evaluation",
-            "Prompt Engineering",
-            "Building Practical Applications",
-            "Learning New Technologies"
-        ]
+\- Working as a Freelance Software Engineer at Scaler.ai, focusing on AI output evaluation and prompt engineering.
+\- Building and improving applications using Python, FastAPI, React, and REST APIs.
+\- Exploring generative AI, cloud technologies, and workflow automation.
+\- Improving my problem-solving and software engineering skills through hands-on projects.
 
-    def introduce(self):
-        return """
-        Computer Science graduate who enjoys turning ideas
-        into working applications.
+\### 🛠️ Technologies & Tools
 
-        I have experience developing full-stack applications,
-        working with backend APIs and databases, automating
-        workflows with Python, and evaluating AI-generated
-        outputs.
+\*\*Languages:\*\* Python, Java, JavaScript, SQL
 
-        I enjoy understanding how things work behind the
-        scenes, experimenting with new technologies, and
-        building solutions to practical problems.
-        """
+\*\*Frontend:\*\* React, HTML5, CSS3
 
+\*\*Backend:\*\* FastAPI, REST APIs
 
-me = Developer()
-print(me.introduce())
-```
+\*\*Databases:\*\* PostgreSQL, MongoDB, Firebase
 
-## `$ cat current_activity.txt`
+\*\*Cloud & DevOps:\*\* AWS, Google Cloud, Docker
 
-Currently working as a **Freelance Software Engineer at Scaler.ai**, focusing on prompt engineering and AI output evaluation.
+\*\*Mobile Development:\*\* Flutter
 
-My work and learning interests include:
+\*\*Other Tools:\*\* Git, GitHub, VS Code
 
-- Evaluating AI-generated responses against task requirements and quality standards.
-- Working with Python, FastAPI, React, and REST APIs.
-- Building and improving full-stack applications.
-- Exploring generative AI, cloud technologies, and workflow automation.
-- Improving software engineering and problem-solving skills through hands-on development.
+\*\*AI:\*\* Prompt Engineering, AI Output Evaluation, Generative AI
 
-## `$ ls ./technical_skills`
+\### 🚀 Projects I've Worked On
 
-| Category | Technologies |
-|---|---|
-| `languages/` | Python, Java, JavaScript, SQL |
-| `frontend/` | React, HTML5, CSS3 |
-| `backend/` | FastAPI, REST APIs |
-| `databases/` | PostgreSQL, MongoDB, Firebase |
-| `mobile/` | Flutter, Dart |
-| `cloud/` | AWS, Google Cloud |
-| `devops/` | Docker, Git, GitHub |
-| `ai/` | Prompt Engineering, AI Output Evaluation, Generative AI |
-| `core_cs/` | DSA, OOP, DBMS, Operating Systems, Computer Networks |
-| `security/` | Wireshark, Kali Linux, Secure Coding |
+\- \*\*Logistics Management System\*\* – A full-stack platform for shipment and inventory management using React, FastAPI, and PostgreSQL.
+\- \*\*V-Comm\*\* – A Flutter and Firebase-based communication platform for faculty and students with real-time messaging.
+\- \*\*Smart Autobill\*\* – A Python automation tool for generating invoices and automating billing workflows.
+\- \*\*Path Learner\*\* – An educational platform with categorized learning resources, interactive quizzes, and recommendations.
+\- \*\*Cyber Suite\*\* – A collection of cybersecurity and networking utilities.
 
-## `$ tree ./projects`
+\### 🏆 Experience & Achievements
 
-```text
-projects/
-│
-├── 01_inbound_logistics_system/
-│   ├── React
-│   ├── Python / FastAPI
-│   ├── PostgreSQL / SQLAlchemy
-│   ├── Docker
-│   ├── Vehicle & Driver Management
-│   ├── Shipment & Cargo Management
-│   └── 3D Cargo Visualization / CAD Conversion
-│
-├── 02_v_comm/
-│   ├── Flutter / Dart
-│   ├── Firebase Authentication
-│   ├── Cloud Firestore
-│   ├── Faculty Communication
-│   ├── Real-Time Messaging
-│   └── Scheduling & Attendance
-│
-├── 03_path_learner/
-│   ├── HTML / CSS / JavaScript
-│   ├── Career Exploration
-│   ├── Interactive Career Quiz
-│   ├── Skill Recommendations
-│   └── Learning Resources
-│
-├── 04_smart_autobill/
-│   ├── Python
-│   └── Billing & Invoice Automation
-│
-├── 05_cybersecurity_projects/
-│   ├── Python
-│   ├── Enigma Machine Simulation
-│   ├── Port Scanning
-│   └── Network Security Experiments
-│
-├── 06_xeno_dashboard/
-│   ├── Product Management Case Study
-│   ├── Retail Marketing Dashboard
-│   ├── KPI Prioritization
-│   └── UX / Product Thinking
-│
-└── 07_personal_portfolio/
-    ├── HTML / CSS
-    ├── Git / GitHub
-    └── GitHub Pages Deployment
-```
+\- Freelance Software Engineer – Scaler.ai
+\- Web Developer Intern – LST RGInnotech Pvt. Ltd.
+\- Frontend Developer Intern – Infosys Springboard Internship 6.0
+\- Qualified for \*\*TCS CodeVita Season 13 – Round 2\*\*
+\- AWS Certified Cloud Practitioner
+\- MongoDB Certified Associate
+\- Palo Alto Cybersecurity Foundation
 
-### `project_highlights`
+\### 🤝 Let's Connect
 
-**01. Inbound Logistics Management System**
+I'm always interested in interesting projects, new technologies, and opportunities to grow as a software engineer.
 
-A full-stack logistics platform developed during my internship at LST RGInnotech. It supports MSME vendors, administrators, and drivers with shipment management, vehicle allocation, cargo information, and 3D visualization.
+\- \*\*Portfolio:\*\* [https://portfolio2124.vercel.app/](https://portfolio2124.vercel.app/)
+\- \*\*LinkedIn:\*\* [https://www.linkedin.com/in/arava-hithesh-prem-08648b327/](https://www.linkedin.com/in/arava-hithesh-prem-08648b327/)
+\- \*\*Email:\*\* hitheshprem1120a@gmail.com
 
-**02. V-Comm – Faculty Communication App**
+\---
 
-A Flutter and Firebase mobile application designed exclusively for college faculty members to communicate with colleagues, exchange real-time messages, manage work schedules, and handle attendance and academic activities.
-
-**03. Path Learner – Smart Career Platform**
-
-A frontend application that helps students explore career domains, understand specializations, take an interactive career quiz, and discover learning resources.
-
-**04. Smart Autobill**
-
-A Python-based automation project focused on generating invoices and simplifying billing workflows.
-
-**05. Cybersecurity Projects**
-
-A collection of practical cybersecurity experiments, including an Enigma Machine simulation and Python-based port scanning tools.
-
-**06. Xeno – Product Management Case Study**
-
-A conceptual product management assignment focused on designing a retail marketer's homepage dashboard, prioritizing business KPIs, identifying user problems, and converting insights into actionable recommendations.
-
-**07. My First Portfolio**
-
-My first personal website, built using HTML and CSS and deployed through GitHub Pages.
-
-## `$ cat experience.log`
-
-```text
-[DEC 2025 - PRESENT]
-ROLE       : Freelance Software Engineer
-COMPANY    : Scaler.ai
-FOCUS      : AI Output Evaluation & Prompt Engineering
-TYPE       : Remote
-
-[DEC 2025 - APR 2026]
-ROLE       : Web Developer
-COMPANY    : LST RGInnotech Pvt. Ltd.
-FOCUS      : React, FastAPI, PostgreSQL, Docker
-TYPE       : Remote
-
-[FEB 2026 - APR 2026]
-ROLE       : Frontend Developer Intern
-PROGRAM    : Infosys Springboard Internship 6.0
-FOCUS      : Responsive UI & Reusable Components
-TYPE       : Virtual Internship
-```
-
-## `$ cat achievements.txt`
-
-```text
-[01] TCS CodeVita Season 13
-     Qualified for Round 2 (2025).
-
-[02] Bizquest - Naukri Campus
-     Ranked #30, with an overall rank of 137 / 465.
-
-[03] VibeCode - Beat the Heat
-     Participated in HackerEarth Hackathon (2024).
-     Built an AI-driven solution for the challenge.
-```
-
-## `$ ls ./certifications`
-
-**Cloud Computing**
-- AWS Certified Cloud Practitioner
-- AWS Academy – Cloud Foundations
-- AWS Academy – Cloud Architecting
-- Google Cloud Arcade
-
-**AI & Generative AI**
-- Google Cloud Gen AI Academy 2.0
-- AWS Educate – Generative AI and ML Foundations
-- Google Gemini AI Workshop
-- Prompt Master Certificate – Naukri Campus
-
-**Data & Databases**
-- MongoDB Certified Associate
-- NPTEL – Data Science for Engineers
-
-**Cybersecurity**
-- Palo Alto Cybersecurity Foundation
-
-**Additional Learning**
-- Deloitte Technology Virtual Experience
-- Deloitte Cyber Virtual Experience
-- Google Fundamentals of Digital Marketing
-- Infosys Springboard CSS3 Certification
-
-## `$ ./connect.sh`
-
-I'm always interested in interesting projects, collaborating with developers, exploring new technologies, and opportunities to grow as a software engineer.
-
-```yaml
-contact:
-  email: "hitheshprem1120a@gmail.com"
-
-  github:
-    username: "hithesh1120"
-    url: "https://github.com/hithesh1120"
-
-  linkedin:
-    url: "https://www.linkedin.com/in/arava-hithesh-prem-08648b327/"
-
-  portfolio:
-    url: "https://portfolio2124.vercel.app/"
-
-  status: "Open to opportunities"
-```
-
-<p align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   $ git commit -m "learning something new every day"     ║
-║                                                          ║
-║   [████████████████████████████████████████] 100%        ║
-║                                                          ║
-║                 ALWAYS BUILDING.                         ║
-║                 ALWAYS LEARNING.                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</p>
+\*Always building, always learning.\* 🚀
