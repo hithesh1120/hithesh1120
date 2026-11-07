@@ -1,118 +1,206 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:FF7A18,50:AF002D,100:319197&text=Hithesh%20Prem&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Python%20%C2%B7%20AI%20Output%20Evaluation&descSize=18&descAlignY=60" width="100%" alt="Hithesh Prem banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=HITHESH%20PREM&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=SOFTWARE%20%2F%20SYSTEMS%20%2F%20IDEAS&descSize=16&descAlignY=62" width="100%" alt="Hithesh Prem — Engineering Workbench"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF8A3D&center=true&vCenter=true&width=700&height=45&lines=Full-stack+developer+%C2%B7+Python+%26+FastAPI;Checking+AI+answers+against+the+task;Exploring+generative+AI+%26+automation;Always+building%2C+always+learning" alt="Typing animation"/>
+### Software Developer · Backend-minded · Full-stack Builder
+
+**I build the connective tissue of software.**
+
+The APIs behind interfaces. The data behind workflows. The logic that makes applications work.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/arava-hithesh-prem-08648b327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:hitheshprem1120a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://portfolio2124.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7A18?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.credly.com/users/arava-hithesh-prem"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://www.linkedin.com/in/arava-hithesh-prem-08648b327/">
+  <img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hitheshprem1120a@gmail.com">
+  <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://portfolio2124.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.credly.com/users/arava-hithesh-prem">
+  <img src="https://img.shields.io/badge/Credentials-203A43?style=for-the-badge&logo=credly&logoColor=white" alt="Credentials"/>
+</a>
 
 </div>
 
-<br/>
-
-> **In one line:** I'm a computer science graduate who builds web and mobile apps, mostly the backend side with Python and FastAPI, and I check AI-written answers against what was actually asked for.
-
 ---
 
-## 🎮 Player Card
+## `01` — The person behind the commits
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I'm **Arava Hithesh Prem**, a Computer Science graduate from **VIT-AP University (2022–2026)**.
 
-| | |
+I enjoy working across the layers of an application: understanding a problem, designing the data flow, building APIs, connecting interfaces, and making sure the pieces work together.
+
+My strongest development focus is **Python, FastAPI, React, and PostgreSQL**. I've also built mobile applications with Flutter and Firebase.
+
+Outside traditional development, I work on **AI output evaluation and prompt-focused tasks**, reviewing whether generated responses actually satisfy their requirements.
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  DEVELOPER PROFILE                                  │
+├─────────────────────────────────────────────────────┤
+│  Name       : Arava Hithesh Prem                    │
+│  Education  : B.Tech — Computer Science             │
+│  University : VIT-AP                                │
+│  Focus      : Full-stack / Backend / AI Evaluation  │
+│  Languages  : Python / Java / JavaScript / SQL      │
+│  Location   : Andhra Pradesh, India                 │
+│  Status     : Open to software development roles    │
+└─────────────────────────────────────────────────────┘
+```
+
+## `02` — What I work with
+
+| Area | Technologies |
 |---|---|
-| **Name** | Arava Hithesh Prem |
-| **Class** | Full-stack developer, backend-leaning |
-| **Origin** | VIT-AP University, B.Tech CSE |
-| **Main weapons** | Python · FastAPI · PostgreSQL |
-| **Side weapons** | React · Flutter · Docker |
-| **Special skill** | Checking AI output against requirements |
-| **Home base** | Andhra Pradesh, India |
-| **Status** | Freelancing at Scaler.ai · open to opportunities |
+| Languages | Python, Java, JavaScript, SQL |
+| Frontend | React, HTML5, CSS3 |
+| Backend | FastAPI, REST APIs, SQLAlchemy |
+| Databases | PostgreSQL, MongoDB, SQLite, Firebase |
+| Mobile | Flutter, Dart |
+| Cloud & DevOps | AWS, Google Cloud, Docker |
+| Developer Tools | Git, GitHub, VS Code |
+| AI | Prompt Engineering, AI Output Evaluation, Generative AI |
 
-</td>
-<td width="42%" align="center" valign="middle">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,flutter,dart,postgres,mongodb,firebase,docker,aws,gcp,git,github,vscode&perline=9" alt="Technologies and tools"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hithesh1120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%"/>
+## `03` — Selected builds
 
-</td>
-</tr>
-</table>
+*Projects that represent the kind of problems I enjoy solving.*
+
+### 🚚 Inbound Logistics Management System
+
+[Repository →](https://github.com/hithesh1120/traveling)
+
+A logistics platform designed to bring MSME vendors, administrators, and drivers into one workflow.
+
+- Shipment booking and cargo details.
+- Vehicle management and driver assignment.
+- Cargo dimensions and available vehicle-space handling.
+- 3D cargo visualization.
+
+`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Three.js`
+
+### 💬 V-Comm — Faculty Communication
+
+[Repository →](https://github.com/hithesh1120/v_comm)
+
+A mobile application built exclusively for college faculty members to communicate and coordinate academic activities.
+
+- Faculty directory and colleague discovery.
+- Real-time messaging.
+- Work scheduling and attendance management.
+- Academic calendar.
+
+`Flutter` `Dart` `Firebase Authentication` `Cloud Firestore`
+
+### 🧭 Path Learner — Career Exploration
+
+[Live Demo →](https://hithesh1120.github.io/Path-learner/) · [Source Code →](https://github.com/hithesh1120/Path-learner)
+
+A browser-based career exploration platform that helps learners discover career domains, specializations, skills, and useful learning resources.
+
+- Interactive career recommendation quiz.
+- Category-based career exploration.
+- Dynamic content and preference-based recommendations.
+
+`HTML` `CSS` `JavaScript`
+
+### 🔐 Cybersecurity Lab
+
+[Repository →](https://github.com/hithesh1120/Cybersecurity)
+
+A collection of practical security experiments exploring encryption and network security.
+
+- Enigma machine simulation.
+- Network security utilities.
+- Port scanning and exposed-service identification.
+
+`Python` `Networking` `Cryptography`
+
+### 🎨 Xeno — Product Dashboard Case Study
+
+[Live Demo →](https://hithesh1120.github.io/Xeno/) · [Repository →](https://github.com/hithesh1120/Xeno)
+
+An independent conceptual product-management and UX assignment exploring a dashboard for retail marketers.
+
+The focus is on campaign performance, customer engagement, useful metrics, and actionable insights.
+
+*Conceptual case study — not an official Xeno product.*
 
 ---
 
-## 📜 Active Quests
+## `04` — Where I've worked
 
-- 🧪 **Scaler.ai:** checking AI answers against the task and tightening prompts
-- ⚙️ Building apps with Python, FastAPI, React and REST APIs
-- ☁️ Exploring generative AI, cloud and workflow automation
-- 🎯 Getting better at problem-solving through real projects
+**Freelance Software Engineer · Scaler.ai**
+
+`December 2025 – Present`
+
+Working on AI-related tasks, evaluating generated outputs against requirements, and contributing to prompt-focused workflows.
+
+**Web Developer Intern · LST RGInnotech Pvt. Ltd.**
+
+`December 2025 – April 2026`
+
+Worked on full-stack development involving React, FastAPI, PostgreSQL, REST APIs, Docker, and collaborative development workflows.
+
+**Infosys Springboard · Internship 6.0**
+
+`2026`
+
+Frontend-focused virtual internship experience involving modern web technologies and collaborative project work.
 
 ---
 
-## 🗺️ Completed Quests
+## `05` — Milestones & credentials
 
-| Quest | What it does, in plain words | Gear |
-|---|---|---|
-| **[Logistics Management System](https://github.com/hithesh1120/traveling)** | Tracks shipments and inventory so a business can see what is where | React · FastAPI · PostgreSQL |
-| **[V-Comm](https://github.com/hithesh1120/v_comm)** | One app where college students and faculty chat in real time and keep track of academic dates | Flutter · Firebase |
-| **SMART AUTOBIL** | Automates the billing steps: scan products, make the invoice, send a digital receipt | Python |
-| **[Path Learner](https://hithesh1120.github.io/Path-learner/)** ([code](https://github.com/hithesh1120/Path-learner)) | Take a short quiz and get career paths to explore | HTML · CSS · JavaScript |
-| **[Cyber Suite](https://github.com/hithesh1120/Cybersecurity)** | A port scanner and an Enigma machine simulator, built to understand how networks and encryption work | Python |
+**Competitive achievement**
+
+- 🏁 TCS CodeVita Season 13 — Qualified for Round 2 (2025).
+
+**Professional certifications**
+
+- ☁️ AWS Certified Cloud Practitioner.
+- 🍃 MongoDB Certified Associate.
+- 🛡️ Palo Alto Cybersecurity Foundation.
+- 📊 NPTEL — Data Science for Engineers.
+
+**Additional learning**
+
+Google Cloud Gen AI Academy · Google Gemini AI Workshop · AWS Cloud Architecting · Deloitte Cybersecurity & Technology simulations.
+
+[Explore my credentials on Credly →](https://www.credly.com/users/arava-hithesh-prem)
 
 ---
 
-## 🎒 Inventory
+## `06` — Outside the terminal
+
+When I'm not building something, I'm probably watching anime, playing games, or getting lost in a fictional world.
+
+- **Anime:** Bleach, Black Clover.
+- **Games:** Warframe, Wuthering Waves, Clash of Clans.
+- **Other interests:** Fantasy stories, technology experiments, and exploring new tools.
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,flutter,postgres,mongodb,firebase,docker,aws,gcp,git,github,vscode&perline=9" alt="Tech stack"/>
+### Have a problem worth building a solution for?
+
+I'm interested in software development opportunities, collaborative projects, and ideas that can be turned into useful products.
+
+<a href="mailto:hitheshprem1120a@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hithesh1120&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+**Trace the problem. Understand the flow. Build the fix.**
 
-</div>
-
----
-
-## 🏆 Trophy Room
-
-- 🏁 **TCS CodeVita Season 13:** Round 2 qualifier (2025)
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🍃 **MongoDB Certified Associate**
-- 🛡️ **Palo Alto Cybersecurity Foundation**
-- 🤖 **AI learning:** Prompt Master (Naukri Campus), Google Gemini AI Workshop, Google Cloud Gen AI Academy (AI/ML track)
-- 🧠 **NPTEL:** Data Science for Engineers
-- 🎯 **Bizquest #30:** ranked 137 out of 465
-
-All credentials are on my [Credly profile](https://www.credly.com/users/arava-hithesh-prem).
-
----
-
-## 🕹️ Off Duty
-
-Anime, action and strategy games (Warframe, Wuthering Waves, Clash of Clans), and long fantasy novels with big worlds.
-
----
-
-<div align="center">
-
-**Want to build something together, or have a role that fits?**
-Send me a message. I usually reply fast.
-
-<a href="mailto:hitheshprem1120a@gmail.com"><img src="https://img.shields.io/badge/Say%20hi-FF7A18?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hi"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hithesh1120&label=Profile%20views&color=ff7a18&style=flat-square" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:319197,50:AF002D,100:FF7A18" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2C5364,50:203A43,100:0F2027" width="100%" alt="Footer"/>
 
 </div>
